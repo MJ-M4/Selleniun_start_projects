@@ -19,6 +19,9 @@ import static org.junit.Assert.assertNotEquals;
 import java.lang.Thread;
 import org.openqa.selenium.support.ui.Select;
 
+/* Mohmad Jayusi - 322458431
+ * Mohamed Mhajne - 207705096  */
+
 public class Password_validation_test {
 
 	static WebDriver browser;

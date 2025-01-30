@@ -11,6 +11,9 @@ import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertEquals;
 
+/* Mohmad Jayusi - 322458431
+ * Mohamed Mhajne - 207705096  */
+
 public class TriangleTest {
 
 	static WebDriver browser;
